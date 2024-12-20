@@ -44,12 +44,12 @@ int main(){
 	
 	
 	
-	cout << "In total ? students.";
+	cout << "In total " << i-1 <<" students.\n";
 	cout << "A = " << count[0] <<", ";
 	cout << "B = " << count[1] <<", ";	
 	cout << "C = " << count[2] <<", ";
 	cout << "D = " << count[3] <<", ";
-	cout << "F = " << count[4] <<", ";
+	cout << "F = " << count[4] ;
 	
 	
 	return 0;
